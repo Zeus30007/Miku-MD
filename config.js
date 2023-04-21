@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['19048889627']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['19048889627']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['19048889627']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['19048882526,27815044083']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['19048882526,27815044083']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['19048882526,27815044083']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Hitler"
 global.packname = "Hitler bot"
 global.author = "By: lieutenant"
